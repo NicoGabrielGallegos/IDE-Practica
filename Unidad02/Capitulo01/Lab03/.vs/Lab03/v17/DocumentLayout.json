@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Carpetas\\Cosas tan importantes como mi existencia\\UTN\\3er A\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\GitHub\\IDE-Practica\\Unidad02\\Capitulo01\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010BDA37-437A-416C-971C-946E9DE4779C}|Lab03.csproj|d:\\carpetas\\cosas tan importantes como mi existencia\\utn\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\github\\ide-practica\\unidad02\\capitulo01\\lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010BDA37-437A-416C-971C-946E9DE4779C}|Lab03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Carpetas\\Cosas tan importantes como mi existencia\\UTN\\3er A\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\GitHub\\IDE-Practica\\Unidad02\\Capitulo01\\Lab03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Carpetas\\Cosas tan importantes como mi existencia\\UTN\\3er A\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\GitHub\\IDE-Practica\\Unidad02\\Capitulo01\\Lab03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:51:33.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
